@@ -1,12 +1,14 @@
-FROM python:2
+FROM debian:stretch
 
-RUN pip install paho-mqtt broadlink
+RUN apt-get update && apt-get install -y\
+    build-essential libssl-dev libffi-dev python-dev git python-pip
 
-WORKDIR /app
-RUN wget https://github.com/eschava/broadlink-mqtt/archive/master.tar.gz \
-  && tar -zxvf master.tar.gz \
-  && mv broadlink-mqtt-master/* ./ \
-  && rm -rf master.tar.gz broadlink-mqtt-master
+RUN git clone https://github.com/ronyblum/broadlink-mqtt
+
+WORKDIR /broadlink-mqtt
+
+RUN pip install -r /broadlink-mqtt/requirements.txt
+
 
 ENV MQTT_SERVER=localhost
 ENV MQTT_PORT=1883
@@ -19,10 +21,6 @@ ENV MQTT_CACERTFILE=/config/certs/rootCA.pem
 ENV MQTT_CERTFILE=/config/certs/broadlink/cert.crt
 ENV MQTT_KEYFILE=/config/certs/broadlink/private.key
 
-COPY mqtt.conf.template /app
-COPY commands/ /app/commands/
-COPY start.sh /app
 
-RUN chmod +x start.sh
+CMD ["python", "/broadlink-mqtt/mqtt.py"]
 
-CMD ["./start.sh"]

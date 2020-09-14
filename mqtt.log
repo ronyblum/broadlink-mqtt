@@ -1,0 +1,682 @@
+[2020-09-13 19:48:24,010] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 19:50:50,459] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 19:52:58,807] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 19:56:52,453] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 19:56:52,500] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:56:57,538] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:02,600] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:07,636] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:12,671] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:17,709] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:22,744] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 19:57:27,779] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:01:47,086] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 20:01:47,142] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:01:52,227] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:01:57,427] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:02,468] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:07,530] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:12,571] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:17,603] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:22,639] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:27,671] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:32,706] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:37,739] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:42,773] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:47,836] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:52,868] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:02:57,904] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:02,940] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:07,973] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:13,007] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:18,041] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:23,074] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:28,109] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:33,144] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:38,180] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:43,220] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:47,251] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 20:03:48,257] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:53,331] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:03:58,370] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:03,410] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:08,449] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:13,497] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:18,538] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:23,574] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:28,612] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:33,649] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:38,683] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:43,722] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:48,757] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:53,792] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:04:58,839] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:03,993] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:09,047] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:14,848] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:21,139] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:26,177] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:31,212] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:36,251] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:41,290] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:46,331] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:47,212] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 20:05:51,368] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:05:56,497] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:06:01,532] WARNING Cannot connect to MQTT server, will try to reconnect in 5 seconds
+[2020-09-13 20:06:46,223] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 20:06:46,680] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:06:58,158] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:07:10,574] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:07:25,081] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:07:44,340] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:08:11,220] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:08:46,460] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 20:08:53,670] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:10:08,111] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:10:46,393] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 20:12:18,541] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 20:12:46,382] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 21:07:51,160] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:07:56,678] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:13:04,495] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:13:04,956] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:21:54,114] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:21:54,651] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:29:50,413] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:29:50,875] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:30:02,334] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:30:14,761] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:30:29,191] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:30:47,624] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:31:14,049] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:31:50,538] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 21:31:56,544] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:41:34,387] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:41:35,932] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:41:48,020] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:42:00,431] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:42:15,040] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:42:33,614] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:43:00,326] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:49:38,523] ERROR Configuration parameter 'device_host' should be specified
+[2020-09-13 21:50:55,250] ERROR Configuration parameter 'device_mac' should be specified
+[2020-09-13 21:51:34,369] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:51:34,805] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:51:46,216] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:53:40,541] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:53:40,972] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 21:54:34,718] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 21:54:35,125] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:23:18,275] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 22:23:18,964] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:23:30,561] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:35:02,858] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 22:35:03,803] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:38:30,743] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-13 22:38:31,152] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:38:42,899] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:38:55,324] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:39:09,732] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:39:28,189] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:39:54,641] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:40:30,869] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:40:37,091] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:41:51,477] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:42:30,889] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:44:02,004] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:44:30,989] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:46:12,820] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:46:30,896] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:48:23,274] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:48:30,872] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:50:31,034] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:50:33,890] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:52:30,887] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:52:44,382] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:54:30,890] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-13 22:54:54,925] WARNING OOOOPS! MQTT disconnection
+[2020-09-13 22:56:30,972] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 09:41:54,603] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 09:43:26,563] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 09:43:54,506] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 09:45:36,988] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 09:45:54,562] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 09:47:47,400] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 09:47:54,916] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 10:29:58,583] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:29:58,603] INFO start connect
+[2020-09-14 10:29:58,824] ERROR exception main()
+[2020-09-14 10:29:58,824] ERROR e obj:{}
+[2020-09-14 10:31:39,616] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:31:39,621] INFO start connect
+[2020-09-14 10:31:40,131] INFO connect success
+[2020-09-14 10:31:40,137] ERROR exception main()
+[2020-09-14 10:31:40,137] ERROR e obj:{}
+[2020-09-14 10:32:10,352] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:32:10,355] INFO start connect
+[2020-09-14 10:32:10,797] INFO connect success
+[2020-09-14 10:32:10,800] INFO try to publish:2020-09-14T10:32:10
+[2020-09-14 10:32:11,801] INFO try to publish:2020-09-14T10:32:11
+[2020-09-14 10:32:12,803] INFO try to publish:2020-09-14T10:32:12
+[2020-09-14 10:32:13,804] INFO try to publish:2020-09-14T10:32:13
+[2020-09-14 10:32:14,805] INFO try to publish:2020-09-14T10:32:14
+[2020-09-14 10:32:15,807] INFO try to publish:2020-09-14T10:32:15
+[2020-09-14 10:32:16,809] INFO try to publish:2020-09-14T10:32:16
+[2020-09-14 10:32:17,811] INFO try to publish:2020-09-14T10:32:17
+[2020-09-14 10:32:18,813] INFO try to publish:2020-09-14T10:32:18
+[2020-09-14 10:32:19,815] INFO try to publish:2020-09-14T10:32:19
+[2020-09-14 10:40:24,952] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:40:24,970] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,006] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,048] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,087] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,135] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,168] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,210] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,272] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,305] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,353] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,388] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,427] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,470] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,505] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,553] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,587] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,634] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,670] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,703] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,728] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,759] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,786] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,808] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,834] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,874] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,918] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,940] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:25,958] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,028] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,076] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,123] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,170] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,204] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,255] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,387] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,426] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:26,473] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 667, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+NameError: name 'ssl_context' is not defined
+[2020-09-14 10:40:53,685] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:40:53,704] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,707] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,766] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,784] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,812] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,821] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,846] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,856] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,886] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,896] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,933] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,935] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:53,978] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:53,986] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,031] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,033] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,080] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,082] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,120] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,129] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,165] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,167] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,185] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,191] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,212] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:40:54,220] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 668, in <module>
+    mqttc.tls_set_context(context=ssl_context)
+  File "/usr/local/lib/python3.7/dist-packages/paho/mqtt/client.py", line 742, in tls_set_context
+    raise ValueError('SSL/TLS has already been configured.')
+ValueError: SSL/TLS has already been configured.
+[2020-09-14 10:40:54,251] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:42:08,266] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:42:08,275] INFO start connect
+[2020-09-14 10:42:08,609] INFO connect success
+[2020-09-14 10:42:08,721] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 10:42:20,122] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 10:43:07,081] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:43:07,084] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:43:07,094] INFO start connect
+[2020-09-14 10:43:07,490] INFO connect success
+[2020-09-14 10:43:07,596] WARNING OOOOPS! MQTT disconnection
+[2020-09-14 10:54:41,333] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:54:41,338] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,374] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,507] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,605] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,710] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,838] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:41,953] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:42,038] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:42,188] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:42,308] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:42,409] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:54:42,553] ERROR Error
+Traceback (most recent call last):
+  File "mqtt.py", line 634, in <module>
+    ssl_context= ssl_alpn()
+  File "mqtt.py", line 101, in ssl_alpn
+    raise e
+  File "mqtt.py", line 92, in ssl_alpn
+    logger.info("open ssl version:{}".format(ssl.OPENSSL_VERSION))
+NameError: name 'logger' is not defined
+[2020-09-14 10:55:00,802] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:55:00,807] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:00,820] INFO start connect
+[2020-09-14 10:55:01,343] INFO connect success
+[2020-09-14 10:55:01,346] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:01,350] INFO start connect
+[2020-09-14 10:55:01,719] INFO connect success
+[2020-09-14 10:55:01,722] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:01,724] INFO start connect
+[2020-09-14 10:55:02,342] INFO connect success
+[2020-09-14 10:55:02,344] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:02,345] INFO start connect
+[2020-09-14 10:55:02,691] INFO connect success
+[2020-09-14 10:55:02,694] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:02,697] INFO start connect
+[2020-09-14 10:55:02,994] INFO connect success
+[2020-09-14 10:55:02,996] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:02,998] INFO start connect
+[2020-09-14 10:55:03,336] INFO connect success
+[2020-09-14 10:55:03,340] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:03,343] INFO start connect
+[2020-09-14 10:55:03,651] INFO connect success
+[2020-09-14 10:55:03,655] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:03,657] INFO start connect
+[2020-09-14 10:55:03,972] INFO connect success
+[2020-09-14 10:55:03,975] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:03,977] INFO start connect
+[2020-09-14 10:55:04,280] INFO connect success
+[2020-09-14 10:55:04,282] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:04,285] INFO start connect
+[2020-09-14 10:55:04,596] INFO connect success
+[2020-09-14 10:55:04,599] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:04,605] INFO start connect
+[2020-09-14 10:55:04,949] INFO connect success
+[2020-09-14 10:55:04,956] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:04,959] INFO start connect
+[2020-09-14 10:55:05,297] INFO connect success
+[2020-09-14 10:55:05,300] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:05,305] INFO start connect
+[2020-09-14 10:55:05,695] INFO connect success
+[2020-09-14 10:55:05,698] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:05,700] INFO start connect
+[2020-09-14 10:55:25,513] DEBUG Connected to 'RM2' Broadlink device at '192.168.0.100' (MAC 26:cf:42:34:ea:34) and started listening for commands at MQTT topic having prefix 'broadlink/' 
+[2020-09-14 10:55:25,517] INFO open ssl version:OpenSSL 1.0.2g  1 Mar 2016
+[2020-09-14 10:55:25,529] INFO start connect
+[2020-09-14 10:55:25,916] INFO connect success
+[2020-09-14 10:57:25,636] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 10:59:35,528] ERROR Error
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 369, in send_packet
+    response = cs.recvfrom(2048)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "mqtt.py", line 509, in broadlink_rm_temperature_timer
+    temperature = str(device.check_temperature())
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 689, in check_temperature
+    data = self._check_sensors(0x1)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 683, in _check_sensors
+    response = self.send_packet(0x6a, packet)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 374, in send_packet
+    raise exception(0xfffd)
+broadlink.exceptions.DeviceOfflineError: The device is offline
+[2020-09-14 11:01:35,534] ERROR Error
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 369, in send_packet
+    response = cs.recvfrom(2048)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "mqtt.py", line 509, in broadlink_rm_temperature_timer
+    temperature = str(device.check_temperature())
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 689, in check_temperature
+    data = self._check_sensors(0x1)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 683, in _check_sensors
+    response = self.send_packet(0x6a, packet)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 374, in send_packet
+    raise exception(0xfffd)
+broadlink.exceptions.DeviceOfflineError: The device is offline
+[2020-09-14 11:03:35,542] ERROR Error
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 369, in send_packet
+    response = cs.recvfrom(2048)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "mqtt.py", line 509, in broadlink_rm_temperature_timer
+    temperature = str(device.check_temperature())
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 689, in check_temperature
+    data = self._check_sensors(0x1)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 683, in _check_sensors
+    response = self.send_packet(0x6a, packet)
+  File "/usr/local/lib/python3.7/dist-packages/broadlink/__init__.py", line 374, in send_packet
+    raise exception(0xfffd)
+broadlink.exceptions.DeviceOfflineError: The device is offline
+[2020-09-14 11:05:25,682] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
+[2020-09-14 11:07:25,657] DEBUG Sending RM temperature 0.0 to topic broadlink/temperature
